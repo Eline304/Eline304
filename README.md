@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Eline,
 
-<!--
-**Eline304/Eline304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development student with a passion for developing user-friendly applications, webdevelopment and software engineering.
 
-Here are some ideas to get you started:
+Technologies & Tools
+C# • Javascript • Python • HTML • CSS • Vue • Flask • Avalonia UI • SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured projects
+
+SkyDiary
+  A flight diary web application for airline crew, featuring interactive trip timelines and photo albums.
+  Vue.js · JavaScript · HTML · CSS
+
+Studentenhuis Eetapp
+  A web application for organizing shared meals, managing registrations and tracking expenses.
+  Python · Flask
+
+Asteroid Shooter
+  A 2D desktop game featuring collision detection, scoring and game mechanics. 
+  C# · Avalonia UI
+
+Client Projects
+  - Klusbedrijf Vader
+  - Olaf Veenhuizen
+
+Other Projects
+Sudoku Solver
+  Python
