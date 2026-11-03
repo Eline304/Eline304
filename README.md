@@ -5,18 +5,18 @@ Currently I'm looking for an internship where I can further develop my skills, l
 
 All of my projects are independently developed, from the initial idea to the finished application. I enjoy building applications from scratch, exploring new technologies and turning ideas into functional software.
 
-##### Languages
-• C# 
-
-• Javascript 
-
-• Python 
-
-• HTML 
-
-• CSS
-
-• SQL
+    ##### Languages
+    • C# 
+    
+    • Javascript 
+    
+    • Python 
+    
+    • HTML 
+    
+    • CSS
+    
+    • SQL
 
 
 ##### Frameworks & technologies
