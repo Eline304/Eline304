@@ -17,7 +17,7 @@
 
 ## Featured projects
 
-#### SkyDiary
+#### SkyDiary [View Repository](https://github.com/Eline304/Sky-Diary)
 Vue.js · JavaScript · HTML · CSS
 
 A flight diary web application for airline crew, featuring interactive trip timelines and photo albums.
