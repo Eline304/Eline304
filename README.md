@@ -33,7 +33,7 @@
     
     A 2D desktop game featuring collision detection, scoring and game mechanics. 
 
-#### Client Projects
+## Client Projects
 [Klusbedrijf vader](https://github.com/Eline304/Klusbedrijf-vader) - A static website developed while learning the fundamentals of web development.
 
 [Olaf Veenhuizen](https://github.com/Eline304/Olaf-flowers-living-objects) - Another static website built with HTML and CSS.
