@@ -18,31 +18,29 @@
 ## Featured projects
 
 #### SkyDiary
-Vue.js · JavaScript · HTML · CSS
-A flight diary web application for airline crew, featuring interactive trip timelines and photo albums.
-  
+    Vue.js · JavaScript · HTML · CSS
+    A flight diary web application for airline crew, featuring interactive trip timelines and photo albums.
 [View Repository](https://github.com/Eline304/Sky-Diary)
 
 #### Studentenhuis Eetapp
-Python · Flask 
-  A web application for organizing shared meals, managing registrations and tracking expenses.
+    Python · Flask 
+    A web application for organizing shared meals, managing registrations and tracking expenses.
   
   [View Repository](https://github.com/Eline304/Student-house-meal-app)
 
 #### Asteroid Shooter
-C# · Avalonia UI
-  A 2D desktop game featuring collision detection, scoring and game mechanics. 
+    C# · Avalonia UI
+    A 2D desktop game featuring collision detection, scoring and game mechanics. 
   
   [View Repository](https://github.com/Eline304/Asteroid-shooter)
 
 #### Client Projects
-  - [Klusbedrijf vader](https://github.com/Eline304/Klusbedrijf-vader) - A static website developed while learning the fundamentals of web development.
-  - [Olaf Veenhuizen](https://github.com/Eline304/Olaf-flowers-living-objects) - Another static website built with HTML and CSS.
+[Klusbedrijf vader](https://github.com/Eline304/Klusbedrijf-vader) - A static website developed while learning the fundamentals of web development.
+[Olaf Veenhuizen](https://github.com/Eline304/Olaf-flowers-living-objects) - Another static website built with HTML and CSS.
 
 ## Other Projects
 
 #### Sudoku Solver
-Python
-A terminal-based Sudoku solver using recursive backtracking.
-
+    Python
+    A terminal-based Sudoku solver using recursive backtracking.
 [View Repository](https://github.com/Eline304/Sudoku-solver)
