@@ -32,10 +32,10 @@
 ## Featured projects
 
 #### SkyDiary
-    Vue.js · JavaScript · HTML · CSS
-      A flight diary web application for airline crew, featuring interactive trip timelines and photo albums.
-      
-      [View Repository](https://github.com/Eline304/Sky-Diary)
+Vue.js · JavaScript · HTML · CSS
+A flight diary web application for airline crew, featuring interactive trip timelines and photo albums.
+  
+[View Repository](https://github.com/Eline304/Sky-Diary)
 
 #### Studentenhuis Eetapp
 Python · Flask 
