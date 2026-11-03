@@ -39,7 +39,8 @@ All of my projects are independently developed, from the initial idea to the fin
   - [Klusbedrijf vader](https://github.com/Eline304/Klusbedrijf-vader)
   - [Olaf Veenhuizen](https://github.com/Eline304/Olaf-flowers-living-objects)
 
-#### Other Projects
+## Other Projects
+
 #### Sudoku Solver
   Python
   [View Repository](https://github.com/Eline304/Sudoku-solver)
