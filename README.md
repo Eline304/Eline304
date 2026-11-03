@@ -5,7 +5,8 @@ Currently I'm looking for an internship where I can further develop my skills, l
 
 All of my projects are independently developed, from the initial idea to the finished application. I enjoy building applications from scratch, exploring new technologies and turning ideas into functional software.
 
-    ##### Languages
+##### Languages
+
     • C# 
     
     • Javascript 
@@ -20,11 +21,12 @@ All of my projects are independently developed, from the initial idea to the fin
 
 
 ##### Frameworks & technologies
-• Vue 
 
-• Flask 
-
-• Avalonia UI
+    • Vue 
+    
+    • Flask 
+    
+    • Avalonia UI
 
 
 ## Featured projects
