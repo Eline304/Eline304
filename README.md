@@ -20,9 +20,11 @@ All of my projects are independently developed, from the initial idea to the fin
 
 ## Featured projects
 
-#### SkyDiary
+#### SkyDiary 
   A flight diary web application for airline crew, featuring interactive trip timelines and photo albums.
+  
   Vue.js · JavaScript · HTML · CSS
+  
   [View Repository](https://github.com/Eline304/Sky-Diary)
 
 #### Studentenhuis Eetapp
