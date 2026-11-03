@@ -5,7 +5,7 @@ Currently I'm looking for an internship where I can further develop my skills, l
 
 All of my projects are independently developed, from the initial idea to the finished application. I enjoy building applications from scratch, exploring new technologies and turning ideas into functional software.
 
-## Languages
+#### Languages
 • C# 
 • Javascript 
 • Python 
@@ -13,33 +13,33 @@ All of my projects are independently developed, from the initial idea to the fin
 • CSS
 • SQL
 
-## Frameworks & technologies
+#### Frameworks & technologies
 • Vue 
 • Flask 
 • Avalonia UI
 
 ## Featured projects
 
-### SkyDiary
+#### SkyDiary
   A flight diary web application for airline crew, featuring interactive trip timelines and photo albums.
   Vue.js · JavaScript · HTML · CSS
   [View Repository](https://github.com/Eline304/Sky-Diary)
 
-### Studentenhuis Eetapp
+#### Studentenhuis Eetapp
   A web application for organizing shared meals, managing registrations and tracking expenses.
   Python · Flask
   [View Repository](https://github.com/Eline304/Student-house-meal-app)
 
-### Asteroid Shooter
+#### Asteroid Shooter
   A 2D desktop game featuring collision detection, scoring and game mechanics. 
   C# · Avalonia UI
   [View Repository](https://github.com/Eline304/Asteroid-shooter)
 
-### Client Projects
+#### Client Projects
   - [Klusbedrijf vader](https://github.com/Eline304/Klusbedrijf-vader)
   - [Olaf Veenhuizen](https://github.com/Eline304/Olaf-flowers-living-objects)
 
-### Other Projects
-### Sudoku Solver
+#### Other Projects
+#### Sudoku Solver
   Python
   [View Repository](https://github.com/Eline304/Sudoku-solver)
