@@ -22,7 +22,7 @@
     
     A flight diary web application for airline crew, featuring interactive trip timelines and photo albums.
 
-#### Studentenhuis Eetapp - [View Repository](https://github.com/Eline304/Student-house-meal-app)
+#### Studentenhuis Meal App - [View Repository](https://github.com/Eline304/Student-house-meal-app)
     Python · Flask 
     
     A web application for organizing shared meals, managing registrations and tracking expenses.
