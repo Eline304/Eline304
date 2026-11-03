@@ -3,7 +3,7 @@
 I'm a Software Development student with a passion for developing user-friendly applications, webdevelopment and software engineering.
 Currently I'm looking for an internship where I can further develop my skills, learn from experienced developers and contribute to real-world projects.
 
-Most of my projects are independently developed, from the initial idea to the finished application. I enjoy building applications from scratch, exploring new technologies and turning ideas into functional software.
+All of my projects are independently developed, from the initial idea to the finished application. I enjoy building applications from scratch, exploring new technologies and turning ideas into functional software.
 
 ## Languages
 • C# 
