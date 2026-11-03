@@ -7,26 +7,12 @@
 
 ##### Languages
 
-    • C# 
-    
-    • Javascript 
-    
-    • Python 
-    
-    • HTML 
-    
-    • CSS
-    
-    • SQL
+    • C# • Javascript • Python • HTML • CSS • SQL
 
 
 ##### Frameworks & technologies
 
-    • Vue 
-    
-    • Flask 
-    
-    • Avalonia UI
+    • Vue • Flask • Avalonia UI
 
 
 ## Featured projects
