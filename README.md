@@ -23,23 +23,23 @@ Most of my projects are independently developed, from the initial idea to the fi
 ### SkyDiary
   A flight diary web application for airline crew, featuring interactive trip timelines and photo albums.
   Vue.js · JavaScript · HTML · CSS
-  [View Repository](https://github.com/Eline/Sky-Diary)
+  [View Repository](https://github.com/Eline304/Sky-Diary)
 
 ### Studentenhuis Eetapp
   A web application for organizing shared meals, managing registrations and tracking expenses.
   Python · Flask
-  [View Repository](https://github.com/username/Student-house-meal-app)
+  [View Repository](https://github.com/Eline304/Student-house-meal-app)
 
 ### Asteroid Shooter
   A 2D desktop game featuring collision detection, scoring and game mechanics. 
   C# · Avalonia UI
-  [View Repository](https://github.com/username/Asteroid-shooter)
+  [View Repository](https://github.com/Eline304/Asteroid-shooter)
 
 ### Client Projects
-  - [Klusbedrijf vader](https://github.com/username/Klusbedrijf-vader)
-  - [Olaf Veenhuizen](https://github.com/username/Olaf-flowers-living-objects)
+  - [Klusbedrijf vader](https://github.com/Eline304/Klusbedrijf-vader)
+  - [Olaf Veenhuizen](https://github.com/Eline304/Olaf-flowers-living-objects)
 
 ### Other Projects
 ### Sudoku Solver
   Python
-  [View Repository](https://github.com/username/Sudoku-solver)
+  [View Repository](https://github.com/Eline304/Sudoku-solver)
