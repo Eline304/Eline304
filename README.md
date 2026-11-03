@@ -20,21 +20,19 @@ All of my projects are independently developed, from the initial idea to the fin
 
 ## Featured projects
 
-#### SkyDiary 
+#### SkyDiary <small>Vue.js · JavaScript · HTML · CSS</small>
   A flight diary web application for airline crew, featuring interactive trip timelines and photo albums.
-  
-  Vue.js · JavaScript · HTML · CSS
   
   [View Repository](https://github.com/Eline304/Sky-Diary)
 
-#### Studentenhuis Eetapp
+#### Studentenhuis Eetapp <small>Python · Flask </small>
   A web application for organizing shared meals, managing registrations and tracking expenses.
-  Python · Flask
+  
   [View Repository](https://github.com/Eline304/Student-house-meal-app)
 
-#### Asteroid Shooter
+#### Asteroid Shooter <small> C# · Avalonia UI</small>
   A 2D desktop game featuring collision detection, scoring and game mechanics. 
-  C# · Avalonia UI
+  
   [View Repository](https://github.com/Eline304/Asteroid-shooter)
 
 #### Client Projects
@@ -43,6 +41,7 @@ All of my projects are independently developed, from the initial idea to the fin
 
 ## Other Projects
 
-#### Sudoku Solver
-  Python
-  [View Repository](https://github.com/Eline304/Sudoku-solver)
+#### Sudoku Solver <small> Python </small>
+A terminal-based Sudoku solver using recursive backtracking.
+
+[View Repository](https://github.com/Eline304/Sudoku-solver)
