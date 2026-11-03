@@ -1,28 +1,45 @@
-## Hi, I'm Eline,
+# Hi, I'm Eline,
 
 I'm a Software Development student with a passion for developing user-friendly applications, webdevelopment and software engineering.
+Currently I'm looking for an internship where I can further develop my skills, learn from experienced developers and contribute to real-world projects.
 
-Technologies & Tools
-C# • Javascript • Python • HTML • CSS • Vue • Flask • Avalonia UI • SQL
+Most of my projects are independently developed, from the initial idea to the finished application. I enjoy building applications from scratch, exploring new technologies and turning ideas into functional software.
 
-Featured projects
+## Languages
+• C# 
+• Javascript 
+• Python 
+• HTML 
+• CSS
+• SQL
 
-SkyDiary
+## Frameworks & technologies
+• Vue 
+• Flask 
+• Avalonia UI
+
+## Featured projects
+
+### SkyDiary
   A flight diary web application for airline crew, featuring interactive trip timelines and photo albums.
   Vue.js · JavaScript · HTML · CSS
+  [View Repository](https://github.com/Eline/Sky-Diary)
 
-Studentenhuis Eetapp
+### Studentenhuis Eetapp
   A web application for organizing shared meals, managing registrations and tracking expenses.
   Python · Flask
+  [View Repository](https://github.com/username/Student-house-meal-app)
 
-Asteroid Shooter
+### Asteroid Shooter
   A 2D desktop game featuring collision detection, scoring and game mechanics. 
   C# · Avalonia UI
+  [View Repository](https://github.com/username/Asteroid-shooter)
 
-Client Projects
-  - Klusbedrijf Vader
-  - Olaf Veenhuizen
+### Client Projects
+  - [Klusbedrijf vader](https://github.com/username/Klusbedrijf-vader)
+  - [Olaf Veenhuizen](https://github.com/username/Olaf-flowers-living-objects)
 
-Other Projects
-Sudoku Solver
+### Other Projects
+### Sudoku Solver
   Python
+  [View Repository](https://github.com/username/Sudoku-solver)
