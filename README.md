@@ -7,16 +7,25 @@ All of my projects are independently developed, from the initial idea to the fin
 
 ##### Languages
 • C# 
+
 • Javascript 
+
 • Python 
+
 • HTML 
+
 • CSS
+
 • SQL
+
 
 ##### Frameworks & technologies
 • Vue 
+
 • Flask 
+
 • Avalonia UI
+
 
 ## Featured projects
 
